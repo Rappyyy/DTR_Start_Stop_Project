@@ -19,11 +19,31 @@
 .sidebar a:hover {
   background-color: #555;
 }
-.main_container {
-  display: flex;
-  justify-content: center;
-}
 
 #profile {
   width: 200px;
+}
+
+.main_container {
+  margin-left: 900px;
+  margin-top: 200px;
+}
+
+#hi {
+  margin-top: 30px;
+  margin-left: 50px;
+  color: #09a374;
+  font-family: "Poppins", sans-serif;
+}
+
+#To_begin_text {
+  margin-top: 30px;
+  margin-left: -130px;
+  font-family: "Poppins", sans-serif;
+}
+
+.form-select {
+  margin-top: 50px;
+  margin-left: -300px;
+  box-shadow: 1px 2px 1px rgba(0, 0, 0, 0.3);
 }
