@@ -1,0 +1,29 @@
+.sidebar {
+  height: 100%;
+  width: 250px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #333;
+  color: #fff;
+  padding-top: 20px;
+}
+.sidebar a {
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  color: #fff;
+  display: block;
+}
+.sidebar a:hover {
+  background-color: #555;
+}
+.main_container {
+  display: flex;
+  justify-content: center;
+}
+
+#profile {
+  width: 200px;
+}
