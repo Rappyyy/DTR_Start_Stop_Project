@@ -53,3 +53,13 @@
   margin-left: -130px;
   width: 500px;
 }
+
+.log-container {
+ margin-top: 100px;
+ display: flex;
+ margin-left: -450px;
+}
+.log-list {
+  width: 1200px;
+  align-items: center;
+}
