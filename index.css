@@ -57,9 +57,12 @@
 .log-container {
  margin-top: 100px;
  display: flex;
- margin-left: -450px;
+ justify-content: center;
+ width: 250px;
 }
+
 .log-list {
-  width: 1200px;
-  align-items: center;
+  width: 100%; 
+  max-width: 800px; 
+  margin: 0 auto; 
 }
